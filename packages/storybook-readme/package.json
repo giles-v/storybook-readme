@@ -1,7 +1,7 @@
 {
-  "name": "storybook-readme",
+  "name": "storybook-readme-no-hscroll",
   "private": false,
-  "version": "3.3.0",
+  "version": "3.3.1",
   "description": "Storybook addon to show components README (for React and Vue)",
   "main": "index.js",
   "homepage": "https://github.com/tuchk4/storybook-readme",
